@@ -1,0 +1,2 @@
+# MyJavaScriptProjects
+JS Practice Projects
